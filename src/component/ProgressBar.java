@@ -1,7 +1,8 @@
+package component;
+
 import javax.swing.JComponent;
 import javax.swing.JProgressBar;
 import javax.swing.plaf.ComponentUI;
-
 
 public class ProgressBar extends JProgressBar {
 
@@ -16,10 +17,4 @@ public class ProgressBar extends JProgressBar {
 	public void uninstallUI (JComponent c){
 		
 	}
-	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 }

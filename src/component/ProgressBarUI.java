@@ -1,3 +1,5 @@
+package component;
+
 import java.awt.Graphics;
 
 import javax.swing.JComponent;

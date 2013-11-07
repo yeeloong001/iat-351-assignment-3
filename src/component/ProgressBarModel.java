@@ -1,3 +1,5 @@
+package component;
+
 import javax.swing.JProgressBar;
 import javax.swing.event.ChangeListener;
 
