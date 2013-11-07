@@ -1,6 +1,9 @@
 iat-351-assignment-3
 ====================
 
-MODEL:ProgressBarModel.java
-UI:ProgressBarUI.java
-Component:ProgressBar.java
+MODEL:Component/ProgressBarModel.java
+UI:Component/ProgressBarUI.java
+Component:Component/ProgressBar.java
+Test:Test/Progressbardemo.java
+
+Please modify code to your own branch, thanks!
